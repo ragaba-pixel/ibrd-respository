@@ -1,4 +1,4 @@
 # data-set
 
-use jupyter notebook and upload the data folder(IBRD-data) plus the loan_statement file 
+used jupyter notebook and IBRD_statement of loan historical data
 This will contain the documentation of the model that has been designed
